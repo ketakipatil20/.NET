@@ -22,6 +22,7 @@ namespace Assignment_NO_5_Q3_and_Q5
                 Console.WriteLine("\npls enter your choice:");
                 int num = Convert.ToInt32(Console.ReadLine());
                 switch (num)
+
                 {
                     case 1:
                         Console.WriteLine("Enter the number of Employee:");
