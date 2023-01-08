@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KETAKPAT\\.NET\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
+      "projectUniqueName": "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
       "projectName": "Assignment 7 A",
-      "projectPath": "C:\\Users\\KETAKPAT\\.NET\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
+      "projectPath": "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
       "packagesPath": "C:\\Users\\KETAKPAT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KETAKPAT\\.NET\\Assignment 7 A\\Assignment 7 A\\obj\\",
+      "outputPath": "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KETAKPAT\\AppData\\Roaming\\NuGet\\NuGet.Config",

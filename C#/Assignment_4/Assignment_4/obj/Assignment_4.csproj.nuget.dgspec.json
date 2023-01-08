@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KETAKPAT\\.NET\\Assignment_4\\Assignment_4\\Assignment_4.csproj": {}
+    "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment_4\\Assignment_4\\Assignment_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KETAKPAT\\.NET\\Assignment_4\\Assignment_4\\Assignment_4.csproj": {
+    "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment_4\\Assignment_4\\Assignment_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KETAKPAT\\.NET\\Assignment_4\\Assignment_4\\Assignment_4.csproj",
+        "projectUniqueName": "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment_4\\Assignment_4\\Assignment_4.csproj",
         "projectName": "Assignment_4",
-        "projectPath": "C:\\Users\\KETAKPAT\\.NET\\Assignment_4\\Assignment_4\\Assignment_4.csproj",
+        "projectPath": "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment_4\\Assignment_4\\Assignment_4.csproj",
         "packagesPath": "C:\\Users\\KETAKPAT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KETAKPAT\\.NET\\Assignment_4\\Assignment_4\\obj\\",
+        "outputPath": "C:\\Users\\KETAKPAT\\.NET\\C#\\Assignment_4\\Assignment_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KETAKPAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
